@@ -1,1 +1,1 @@
-console.log(`Hello ${5 + 5}`);
+console.log(`Hello ${5 + 10}`);
